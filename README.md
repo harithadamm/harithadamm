@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm Harith !👋
 
-<!--
-**harithadamm/harithadamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm a Data Analyst & BI Developer passionate about SQL, Python, and Power BI.  
+Currently working on enterprise data warehousing projects and building dashboards for real-time insights.
 
-Here are some ideas to get you started:
+🚀 Some of my main projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Project in SMMS, Databricks, AWS, AZURE, Tableau, Python and Power Bi.
+
+## 🔧 Skills ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+- ETL pipelines, Medallion architecture
+- Agile & Scrum methodologies
+
+## 📂 Projects
+- [SQL Data Warehouse Project](https://github.com/harithadamm/sql-data-warehouse-project)
+- [Power BI Dashboards](https://github.com/harithadamm/powerbi-dashboards)
+
+## 🌱 Currently Learning
+- Advanced project management tools (ClickUp, monday.com)
+- Workflow automation
+
+Thanks for visiting my profile 🚀
+
+
