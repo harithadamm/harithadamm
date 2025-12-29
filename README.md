@@ -1,6 +1,6 @@
 ### Hi there, I'm Harith !👋
 
-- 🌱 I'm a Data Analyst & BI Developer passionate about SQL, Python, and Power BI.  
+- 🌱 I'm a Data Analyst & BI Developer passionate about SQL, Python, and Power BI and Tableau 
 Currently working on enterprise data warehousing projects and building dashboards for real-time insights.
 
 🚀 Some of my main projects:
@@ -14,10 +14,12 @@ Currently working on enterprise data warehousing projects and building dashboard
 ## 📂 Projects
 - [SQL Data Warehouse Project](https://github.com/harithadamm/sql-data-warehouse-project)
 - [Power BI Dashboards](https://github.com/harithadamm/powerbi-dashboards)
+- [Tableau Dashboards]
 
 ## 🌱 Currently Learning
 - Advanced project management tools (ClickUp, monday.com)
 - Workflow automation
+- Cloud Storage
 
 Thanks for visiting my profile 🚀
 
