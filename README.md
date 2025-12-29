@@ -17,7 +17,7 @@ Currently working on enterprise data warehousing projects and building dashboard
 - [Tableau Dashboards]
 
 ## 🌱 Currently Learning
-- Advanced project management tools (ClickUp, monday.com)
+- Advanced project management tools (Jira, monday.com)
 - Workflow automation
 - Cloud Storage
 
