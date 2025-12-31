@@ -13,8 +13,8 @@ Currently working on enterprise data warehousing projects and building dashboard
 
 ## 📂 Projects
 - [SQL Data Warehouse Project](https://github.com/harithadamm/sql-data-warehouse-project)
-- [Trend Sales Analyst Dashboards](https://github.com/harithadamm/powerbi-dashboards)
-- [Tableau Dashboards]
+- [Revenue-Trends-Product-Performance-Dashboard](https://github.com/harithadamm/Revenue-Trends-Product-Performance-Dashboard)
+
 
 ## 🌱 Currently Learning
 - Advanced project management tools (Jira, monday.com)
