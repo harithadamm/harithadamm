@@ -17,7 +17,7 @@ Currently working on enterprise data warehousing projects and building dashboard
 
 
 ## 🌱 Currently Learning
-- Advanced project management tools (Jira, monday.com)
+- Advanced project management tools (DataBricks, AWS, Sparks)
 - Workflow automation
 - Cloud Storage
 
